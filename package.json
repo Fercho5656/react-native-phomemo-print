@@ -1,0 +1,17 @@
+{
+  "name": "@lucksmith/react-native-phomemo-print",
+  "version": "1.0.21",
+  "description": "## Getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Dennis Acker",
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
